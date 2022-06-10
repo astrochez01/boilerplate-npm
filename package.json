@@ -4,7 +4,7 @@
 	"description": "A projecto that does something awesome my",
 	"dependencies": {
 		"express": "^4.18.1",
-		"moment":"2.10.2"
+		"moment":"~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
