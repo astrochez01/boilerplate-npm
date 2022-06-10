@@ -11,7 +11,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": {
-		"name": "Angel Trochez"
-	}
+	"author":  "Angel Trochez"
 }
