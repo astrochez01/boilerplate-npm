@@ -13,5 +13,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": ["Aprendiendo","backend nodejs","freecodecamp"]
+	"keywords": ["Aprendiendo","backend nodejs","freecodecamp"],
+	"license": "MIT"
 }
